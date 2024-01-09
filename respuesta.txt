@@ -1,0 +1,3 @@
+
+El archivo que fue alterado es:
+log.txt -> MD5: f2b0428b975452afbc641e46a042231b
